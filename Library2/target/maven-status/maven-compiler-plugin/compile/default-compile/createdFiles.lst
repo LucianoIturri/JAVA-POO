@@ -1,0 +1,8 @@
+classes\Teacher.class
+classes\Student.class
+classes\Member.class
+repositories\BooksRepository.class
+classes\BookLoan.class
+com\mycompany\library2\Library2.class
+repositories\BookLoanRepository.class
+classes\Book.class
